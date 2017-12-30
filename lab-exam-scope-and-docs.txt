@@ -1,0 +1,23 @@
+N.B.: When a slide features a blue&yellow band with a star pattern in the upper right corner, it means I consider this as 'supplementary material' and will not ask about that in the exams.
+
+
+-27/10: lab exam. You won't be allowed to use your own machine. You won't be allowed to connect to internet. 
+
+I will put on the machines the pdf files below:
+- dw-chap5.pdf, dw-chap5-2x2.pdf and dw-slides-regex.pdf
+- connecting-to-oracle.pdf (which contains irrelevant information, like ssh)
+- using-sqlldr.pdf (a copy-paste from lab sheet 2, with a few more explanations)
+
+You will also be allowed to bring your *own* lecture slides/lab session notes in printed form, marked at your name, for the lab exam, if you want them.
+
+Program of the lab exam: material of Lab sessions 1 and 2 :
+
+SQL: 
+== recursive queries (CTE), 
+== extensions of GROUP BY clause: CUBE, ROLLUP, GROUPING SETS, GROUPING, GROUPING_ID, GROUP_ID
+== analytical functions: OVER(PARTITION BY ORDER BY), window framing (ie., RANGE/ROW), rank functions, lag/lead, first/last_value
+== you have to know how to use sqlldr, how to use sqlplus, etc. (if I have to tell you how to load the files I will put a penalty to your grade)
+
+Regular expressions:
+== everything covered in lectures (but not slide 5 = lazyness etc.)
+== I may ask you to use a regular expression in Oracle SQL, or in sed. Won't ask about python. 
